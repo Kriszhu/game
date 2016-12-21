@@ -14,6 +14,7 @@
 		F100AF761DDAF90700A7ED37 /* game.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F100AF741DDAF90700A7ED37 /* game.xcdatamodeld */; };
 		F100AF781DDAF90700A7ED37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F100AF771DDAF90700A7ED37 /* Assets.xcassets */; };
 		F100AF7B1DDAF90700A7ED37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F100AF791DDAF90700A7ED37 /* LaunchScreen.storyboard */; };
+		F16C45E41E0A121800960489 /* testTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F16C45E31E0A121800960489 /* testTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		F100AF771DDAF90700A7ED37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F100AF7A1DDAF90700A7ED37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F100AF7C1DDAF90700A7ED37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F16C45E21E0A121800960489 /* testTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testTableViewCell.h; sourceTree = "<group>"; };
+		F16C45E31E0A121800960489 /* testTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				F100AF6C1DDAF90700A7ED37 /* AppDelegate.m */,
 				F100AF6E1DDAF90700A7ED37 /* ViewController.h */,
 				F100AF6F1DDAF90700A7ED37 /* ViewController.m */,
+				F16C45E21E0A121800960489 /* testTableViewCell.h */,
+				F16C45E31E0A121800960489 /* testTableViewCell.m */,
 				F100AF711DDAF90700A7ED37 /* Main.storyboard */,
 				F100AF771DDAF90700A7ED37 /* Assets.xcassets */,
 				F100AF791DDAF90700A7ED37 /* LaunchScreen.storyboard */,
@@ -156,6 +161,7 @@
 			files = (
 				F100AF701DDAF90700A7ED37 /* ViewController.m in Sources */,
 				F100AF6D1DDAF90700A7ED37 /* AppDelegate.m in Sources */,
+				F16C45E41E0A121800960489 /* testTableViewCell.m in Sources */,
 				F100AF6A1DDAF90700A7ED37 /* main.m in Sources */,
 				F100AF761DDAF90700A7ED37 /* game.xcdatamodeld in Sources */,
 			);
